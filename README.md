@@ -4,7 +4,7 @@
 
 “Data Transactions” (transactions.csv) - Fixed dataset used for use case fraud and clustering.
 
-Sumber dataset : https://drive.google.com/file/d/1sr0k8_k7huFuHiR_C5P_r60VaBDzwoTb/view
+Sumber dataset : https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection/data
 
 Machine Learning Classification Process for transaction.csv data.
 
