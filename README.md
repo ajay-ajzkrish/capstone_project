@@ -1,5 +1,3 @@
-# TRANSACTION DATA (CREDIT FRAUD)
-
 “Data Transactions” (transactions.csv) - Fixed dataset used for use case fraud and clustering.
 
 Sumber dataset : https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection/data
