@@ -1,0 +1,5 @@
+name_of_stat,F-Statistic,P-Value,Result
+Transaction Type Vs Current Balance Vs Fraud,23.1160,0.0000,There is significant association among the variables and we reject the null hypothesis
+Expiration Date Key In Match Vs cvv_match Vs Fraud,0.9148,0.8218,There is no significant association among the variables variables and we fail to reject the null hypothesis
+Transaction Amount Vs Acq Country Vs Fraud,647.0067,0.0000,There is significant association among the variables and we reject the null hypothesis
+Available Money Vs Acq Country Vs Fraud,1.6843,0.1077,There is no significant association among the variables variables and we fail to reject the null hypothesis

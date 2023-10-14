@@ -1,0 +1,13 @@
+,Column,p-value chi2_contingency,result
+0,acqCountry,0.0067,There is significant association between the two variables and we reject the null hypothesis
+1,merchantCountryCode,0.0049,There is significant association between the two variables and we reject the null hypothesis
+2,posEntryMode,0.0000,There is significant association between the two variables and we reject the null hypothesis
+3,posConditionCode,0.0000,There is significant association between the two variables and we reject the null hypothesis
+4,merchantCategoryCode,0.0000,There is significant association between the two variables and we reject the null hypothesis
+5,transactionType,0.0000,There is significant association between the two variables and we reject the null hypothesis
+6,cardPresent,0.0000,There is significant association between the two variables and we reject the null hypothesis
+7,expirationDateKeyInMatch,0.4605,There is no significant association between the two variables and we fail to reject the null hypothesis
+8,isFraud,0.0000,There is significant association between the two variables and we reject the null hypothesis
+9,transcation_month,0.0000,There is significant association between the two variables and we reject the null hypothesis
+10,transcation_date,0.6952,There is no significant association between the two variables and we fail to reject the null hypothesis
+11,cvv_match,0.0000,There is significant association between the two variables and we reject the null hypothesis
